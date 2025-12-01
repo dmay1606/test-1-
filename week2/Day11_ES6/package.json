@@ -1,0 +1,14 @@
+{
+  "name": "day11_es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day11_ES6.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  }
+}
